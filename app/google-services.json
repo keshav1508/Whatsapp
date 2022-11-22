@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857834779492",
+    "project_id": "aakk-chatapplication",
+    "storage_bucket": "aakk-chatapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857834779492:android:dd3c11bc849a57cf284071",
+        "android_client_info": {
+          "package_name": "com.example.aakkchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857834779492-prqk8clmn3qd0tu6qfnjpoi1tak0377j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FL5kSdPyqb58qH7JSRl-OPzKPtD-HAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857834779492-prqk8clmn3qd0tu6qfnjpoi1tak0377j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
